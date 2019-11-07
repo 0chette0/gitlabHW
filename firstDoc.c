@@ -3,9 +3,9 @@
 int main(){
 
 	printf("777777777777777");
-	//master
+	//gggg
 
 
-	//mamama
+	//ggggg
 	return 0;
 }
