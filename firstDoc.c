@@ -2,7 +2,7 @@
 
 int main(){
 
-	printf("hello 777777777777777");
+	printf("777777777777777");
 	//master
 
 
