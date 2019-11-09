@@ -1,9 +1,9 @@
 # Let travis know the language it needs to run
-language: python
+language: c
 
 # Mention the python version in which travis will run the app
-python:
-  - "3.6"
+c:
+  - "c11"
 
 
 # command to install dependencies in the requirements file
