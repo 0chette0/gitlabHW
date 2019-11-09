@@ -2,7 +2,8 @@
 
 int main(){
 
-	printf("hi hi");
+	int i =1 ,j;
+	j=i;
 	//rr
 	return 0;
 }
