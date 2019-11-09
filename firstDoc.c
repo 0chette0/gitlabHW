@@ -2,6 +2,7 @@
 
 int main(){
 
-	printf("hello 助教給我100分");
+	printf("hi hi");
+	//rr
 	return 0;
 }
